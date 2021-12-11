@@ -19,7 +19,7 @@ setup(
         'requests',
         'gcloud',
         'oauth2client',
-        'requests_toolbel',
+        'requests_toolbelt',
         'python_jwt',
         'pycryptodome'
     ]
