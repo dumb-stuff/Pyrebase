@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Pyrebase',
+    name='totally_not_the_official_pyrebase',
     version='3.0.27',
     url='https://github.com/thisbejim/Pyrebase',
-    description='A simple python wrapper for the Firebase API',
+    description='firebase api wrapper fork from thisbejim but remove module limitation',
     author='James Childs-Maidment',
     license='MIT',
     classifiers=[
